@@ -128,7 +128,7 @@ Pull requests are welcome! For significant changes, please open an issue to disc
 
 Here is a screenshot of the application:
 
-![App Screenshot](images/screenshot.png)
+![App Screenshot](https://github.com/bitz-1/PRODITY_CS_05/blob/main/Screenshot%202025-01-04%20105529.png)
 
 
 ### **To Do Next**
