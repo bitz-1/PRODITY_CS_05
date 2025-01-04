@@ -1,5 +1,3 @@
-
-```markdown
 # Packet Sniffer Tool
 
 A **Python-based Packet Sniffer** tool for capturing and analyzing network packets. This tool can extract essential details such as source and destination IP addresses, protocols, and payload data. It is designed for educational purposes, ensuring the ethical use of network analysis.
