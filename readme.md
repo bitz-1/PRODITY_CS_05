@@ -124,9 +124,12 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contribution
 Pull requests are welcome! For significant changes, please open an issue to discuss your ideas.
 
----
+# Project Overview
 
-```
+Here is a screenshot of the application:
+
+![App Screenshot](images/screenshot.png)
+
 
 ### **To Do Next**
 - Replace placeholder sections (e.g., screenshots or repository URL) with relevant information specific to your project.
